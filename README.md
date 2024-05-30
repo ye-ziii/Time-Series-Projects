@@ -14,4 +14,5 @@ Keen interest and passion in Machine Learning, NLP, and AI technology. Hands-on 
 ## Time Series Related Projects
 ### Project 1: NYC Citi Bike Demand Forecast
 This project aims to analyze the daily time series data of Citi Bike rides in NYC after COVID-19 (from 2022 March 1st to 2024 March 31st). The goal is to forecast the daily Citi Bike demand in NYC to help the Citi Bike company better optimize bike distribution and maintenance planning in NYC.
+
 (_The detailed project information, including datasets, project major sections, and authors, are elaborated in the project code/HTML files._)
